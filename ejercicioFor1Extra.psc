@@ -9,11 +9,10 @@ Algoritmo ejercicioFor1extra
 	definir iterador Como Entero;
 	iterador = 0;
 	
-	Escribir "Ingrese el primer y último número del rango elegido";
+	Escribir "Ingrese el primer y Ãºltimo nÃºmero del rango elegido";
 	Leer numeroIngresadoA; 
 	leer numeroIngresadoB;
 	
-	auxiliar = numeroIngresadoA;
 	
 	escribir "muestra los multiplos del primero numero hasta llegar al segundo"
 	
