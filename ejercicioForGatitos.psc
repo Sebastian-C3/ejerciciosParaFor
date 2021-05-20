@@ -1,8 +1,11 @@
 Algoritmo alimentarGatitos
 	
 	definir gatitosAlimentados como entero;
+	gatitosAlimentados=0;
 	definir totalGatitos como entero;
+	totalGatitos=0;
 	definir gatitosComenJuntos como entero;
+	gatitosComenJuntos=0;
 	
 	Escribir "ingrese cantidad de gatitos que ya comieron";
 	Leer  gatitosAlimentados;
