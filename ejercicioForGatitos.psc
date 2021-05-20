@@ -17,10 +17,8 @@ Algoritmo alimentarGatitos
 		
 		si gatitosComenJuntos <> 1 Entonces
 			escribir "comieron " gatitosComenJuntos " gatitos al mismo tiempo, paso a alimentar al resto";
-			Escribir "total alimentados :" iterador;
 		SiNo
 			Escribir "comió " gatitosComenJuntos " gatito, paso a alimentar al resto";
-			Escribir "total alimentados :" iterador;
 		FinSi
 		
 	Fin Para
